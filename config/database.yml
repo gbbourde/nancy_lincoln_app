@@ -27,8 +27,8 @@ test:
   reconnect: false
   database: nancy_lincoln_app_test
   pool: 5
-  username: root
-  password:
+  username: minirails
+  password: vu1can
   socket: /tmp/mysql.sock
 
 production:
@@ -37,6 +37,6 @@ production:
   reconnect: false
   database: nancy_lincoln_app_production
   pool: 5
-  username: root
-  password:
+  username: minirails
+  password: vu1can
   socket: /tmp/mysql.sock
